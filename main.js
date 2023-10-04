@@ -1,1 +1,1 @@
-alert("Bora programar galera");
+document.querySelector("#som_tecla_grilo").play();
